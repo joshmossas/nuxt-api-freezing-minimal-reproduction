@@ -30,5 +30,5 @@ I did try reproducing in a non-monorepo setting and wasn't able to create the sa
 
 ## Video Examples
 
-- [Example with Prisma (not working)](/readme-assets/example-with-prisma.mp4)
-- [Example with Prisma Commented Out (working)](/readme-assets/example-without-prisma.mp4)
+- [Example with Prisma (not working)](https://drive.google.com/file/d/1IJQ76O6WeANHa6QSkdL8nQKjOc6l3AfX/view?usp=sharing)
+- [Example with Prisma Commented Out (working)](https://drive.google.com/file/d/1IHWRx3aSBNZVOtK6eCUsUP5XHFvdZgAM/view?usp=sharing)
