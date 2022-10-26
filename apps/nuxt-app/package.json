@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "clean": "nuxt clean",
+    "css": "tailwindcss -i src/assets/styles/tailwind.css -o src/assets/styles/tailwind.build.css",
+    "css:watch": "tailwindcss -i src/assets/styles/tailwind.css -o src/assets/styles/tailwind.build.css --watch",
+    "build": "npm run css && nuxt build",
+    "dev": "npm run css && concurrently \"npm run css:watch\" \"nuxt dev\"",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "info": "nuxt info"
+  }
+}

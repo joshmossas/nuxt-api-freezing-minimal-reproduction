@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "nuxt-app": "apps/nuxt-app"
+  },
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json"
+}
